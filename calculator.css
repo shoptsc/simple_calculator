@@ -12,12 +12,9 @@ body {
 .container {
     width: 50%;
     min-height: 25vh;
-    margin: 20px auto;
+    margin: 25% auto;
     background: lightgreen;
     border-radius: 20px;
-    position: absolute;
-    top: 25%;
-    left: 25%;
 }
 
 .form {
